@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  },
+  "name": "frases_random",
+  "description": "Proyecto para practicar el uso de HTML, CSS con Tailwind, Vanilla JS, Git y GitHub",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+  "build": "npx tailwindcss -i ./styles.css -o ./src/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
